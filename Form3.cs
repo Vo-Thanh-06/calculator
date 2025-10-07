@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace signin_signup
 {
-    public partial class Form3 : Form
+    public partial class Formthongtin : Form
     {
-        public Form3()
+        public Formthongtin()
         {
             InitializeComponent();
         }
